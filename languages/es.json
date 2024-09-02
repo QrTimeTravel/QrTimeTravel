@@ -1,0 +1,122 @@
+{
+    "nav": {
+        "inicio": "Inicio",
+        "sitios": "Sitios",
+        "paginas": "Páginas",
+        "iglesia": "Iglesia San Ignacio Guazú",
+        "capilla": "Capilla de Tañarandy",
+        "barraca": "Barraca de Tañarandy",
+        "estatua": "Estatua de San Roque",
+        "plaza": "Plaza de la Mujer Paraguaya",
+        "hogar": "Hogar de Ancianos",
+        "nosotros": "Sobre Nosotros",
+        "copy": "&copy; Copyright Alumnos del Tercero BTI SIL 2024. Todos los derechos reservados.",
+        "galeria":"GALERIA",
+        "imagenes":"Imágenes",
+        "leer":"Leer Más"
+    },
+    "contenido": {
+        "historiai": "HISTORIA",
+        "iglesiat1": "Iglesia de <span class='text-primary'>San Ignacio Guazú</span>",
+        "iglesiai1": "En el siglo XVII, los jesuitas llegaron a la Provincia del Paraguay con la misión de evangelizar a los indígenas. Durante su estancia, fundaron 30 pueblos y enseñaron música, arte y arquitectura. En San Ignacio Guazú, construyeron una monumental iglesia que, a pesar de haber sido demolida en el siglo XX, dejó un legado profundo en la historia y cultura del lugar.",
+        "iglesiat2": "<span class='text-primary'>Primera Iglesia</span>y Su Declive",
+        "iglesiai2": "La primera iglesia de San Ignacio Guazú fue completada en 1694. Esta iglesia, que sobrevivió hasta 1911 en estado deteriorado, finalmente se derrumbó en 1921. Se destacaba por su interior de madera y un cielo raso adornado con hasta mil seiscientas pinturas. Tras su destrucción, solo quedaron algunos vestigios que se exhiben hoy en el Museo Diocesano de San Ignacio Guazú.",
+        "nuevo":"Nuevo",
+        "templo":"Templo",
+        "iglesiai3":"La construcción de la actual iglesia de San Ignacio Guazú comenzó en 1919 y culminó en 1932. A pesar de no tener el mismo esplendor que el antiguo templo jesuítico, fue el resultado de un esfuerzo colectivo de la comunidad, desde los hombres que trabajaban en el campo hasta los niños que transportaban agua. Según Saturnino Ferreira Pérez, la construcción fue liderada por Teodoro y Eugenio Pérez López, Venancio y Jacinto Ferloni, y otros, junto con un centenar de pobladores anónimos.",
+        "iglesiai4":"La construcción del nuevo templo fue un proyecto comunitario. Los feligreses, tanto ricos como humildes, aportaron materiales y trabajo. Los ganaderos financiaron la compra de materiales, mientras que los carpinteros y aserraderos locales proporcionaron la madera necesaria. El entusiasmo de la población fue tal que la construcción avanzó hasta el techo a inicios de 1932.",
+        "iglesiat3":"Finalización del <span class='text-primary'>Templo</span>",
+        "iglesiai5":"En plena Guerra del Chaco, los jesuitas regresaron a San Ignacio, liderados por el padre Joaquín Vericat y otros. Su presencia dio un nuevo impulso para la terminación del templo. Se instalaron baldosas y se completó el maderamen y techado con la colaboración de la comunidad.",
+        "iglesiat4":"<span class='text-primary'>Legado</span> y Preservación",
+        "iglesiai6":"Aunque el antiguo templo jesuítico ya no existe, su legado persiste en el nuevo templo y en el Museo Jesuítico, que conserva magníficas piezas de arte sacro y documentos históricos de la época. San Ignacio Guazú sigue siendo un testimonio vivo de la rica historia jesuítica en Paraguay."
+    },
+    "sitiosp":{
+        "sitioiglesia":"Es una de las más antiguas y emblemáticas del país. Su historia está íntimamente ligada a la...",
+        "sitiobarraca":"La Barraca de Tañarandy es una festividad cultural y religiosa que se celebra en Tañarandy...",
+        "sitiocapilla":"Es un sitio de gran importancia cultural y religiosa. Tañarandy, cuyo nombre en guaraní significa...",
+        "sitioestatuat":"Estatua De <br>San Roque González",
+        "sitioestatuai":"La estatua está situada en la plaza principal de San Ignacio, Misiones, un lugar de...",
+        "sitioplazat":"Plaza de la <br> Mujer Paraguaya",
+        "sitioplazai":"Es un espacio con una rica historia que refleja tanto el reconocimiento a las mujeres...",
+        "sitiohogart":"Hogar De Ancianos <br>San Vicente De Paul",
+        "sitiohogari":"Este hogar de ancianos se fundó con la intención de proporcionar cuidado y asistencia a las..."
+    },
+    "contenidoB":{
+        "que":"Qué es?",
+        "barracat1":"La Barraca de <span class='text-primary'>Tañarandy</span>",
+        "barracai1":"La Barraca de Tañarandy es una festividad cultural y religiosa que se celebra en Tañarandy, un pequeño paraje ubicado en las cercanías de San Ignacio, en el departamento de Misiones, Paraguay. Esta tradición ha ganado notoriedad tanto a nivel nacional como internacional por su combinación de arte, religiosidad y cultura popular.",
+        "barracat2":"<span class='text-primary'>Origen</span> y Motivación",
+        "barracai2":"La festividad de Tañarandy fue iniciada en 1992 por el artista plástico <a href='https://es.wikipedia.org/wiki/Koki_Ruiz'>Koki Ruiz</a>. La intención de Ruiz era revitalizar las tradiciones populares y religiosas de la Semana Santa en la región, integrando elementos artísticos que reflejaran la rica herencia cultural del Paraguay. La festividad se enmarca dentro de las celebraciones de la Semana Santa, específicamente el Viernes Santo.",
+        "desarrollo":"Desarrollo",
+        "consolidacion":"Consolidación",
+        "barracai3":"En el primer año, se realizaron pequeñas instalaciones artísticas con la participación de la comunidad local. Estas primeras obras consistían en la creación de cuadros y esculturas que representaban escenas de la Pasión de Cristo. Con el paso del tiempo, la complejidad y el tamaño de las obras fueron aumentando, y se incorporaron elementos de arte efímero, como el uso de velas, antorchas y otros elementos naturales.",
+        "barracai4":"Con los años, la festividad de Tañarandy ha crecido tanto en tamaño como en reconocimiento. Koki Ruiz y su equipo comenzaron a trabajar con materiales locales como el barro, la madera y la cera para crear impresionantes cuadros y esculturas que representan escenas bíblicas. Uno de los elementos más emblemáticos de la celebración es la procesión nocturna, conocida como 'El Camino de la Cruz'. Durante esta procesión, miles de velas iluminan el camino, creando una atmósfera mágica y espiritual.",
+        "barracat3":"Impacto Cultural <span class='text-primary'>y Social</span>",
+        "barracai5":"La Barraca de Tañarandy ha tenido un impacto significativo tanto en la comunidad local como en el turismo de la región. Ha revitalizado las tradiciones locales y ha creado un espacio para la expresión artística comunitaria. Además, ha atraído a miles de visitantes cada año, quienes acuden a Tañarandy para presenciar las impresionantes obras de arte y participar en las celebraciones religiosas.",
+        "barracat4":"<span class='text-primary'>Reconocimiento</span> y Futuro",
+        "barracai6":"La festividad de Tañarandy ha sido reconocida a nivel nacional e internacional por su valor cultural y artístico. Se ha convertido en un referente de las celebraciones de Semana Santa en Paraguay y sigue evolucionando con nuevas incorporaciones y propuestas artísticas cada año."
+    },
+    "contenidoC":{
+        "capillat1":"Capilla de <span class='text-primary'>Tañarandy </span><",
+        "capillai1":"Tañarandy, que significa 'Tierra de los herejes' en guaraní, es un sitio emblemático en San Ignacio, Misiones, Paraguay, conocido por sus profundas raíces en las tradiciones y costumbres paraguayas. Aunque no es una capilla tradicional en el sentido convencional, Tañarandy es un lugar de gran importancia cultural y religiosa, especialmente durante la Semana Santa.",
+        "capillai2":"La capilla de Tañarandy es una estructura relativamente moderna, concebida como parte de los esfuerzos para revitalizar y preservar las tradiciones culturales y religiosas de la región. Este proyecto fue impulsado por Koki Ruiz, un destacado artista plástico paraguayo, quien ha trabajado intensamente en la recuperación y promoción de la cultura de Tañarandy desde finales del siglo XX.",
+        "razon":"Razón",
+        "legado":"Legado",
+        "capillai3":"La creación de la capilla de Tañarandy responde a la necesidad de conservar y fomentar las tradiciones religiosas y culturales de la comunidad local. Este lugar se ha convertido en un punto central para las celebraciones de Semana Santa, atrayendo a miles de peregrinos y turistas. La intención detrás de su creación fue proporcionar un espacio donde las antiguas tradiciones pudieran ser mantenidas y presentadas, subrayando la rica identidad cultural paraguaya.",
+        "capillai4":"El legado cultural de Tañarandy es profundo y significativo. Uno de los eventos más destacados es 'La Procesión de los Penitentes' o 'Camino al Yvaga', que se celebra anualmente durante la Semana Santa. Este evento es famoso por su impresionante despliegue de arte efímero, donde miles de velas iluminan los caminos y se exhiben obras de arte religioso hechas con materiales naturales como semillas y flores. Estas manifestaciones artísticas, dirigidas por Koki Ruiz, han convertido a Tañarandy en un referente del arte sacro en Paraguay.",
+        "capillat2":"Usos <span class='text-primary'>Actuales</span>",
+        "capillai5":"Hoy en día, la capilla y el área de Tañarandy son utilizadas principalmente para eventos religiosos y culturales. Aunque la Semana Santa es la época más destacada, donde se realizan las procesiones y otras actividades espirituales, el sitio también acoge misas, eventos comunitarios, y otras celebraciones culturales a lo largo del año. Tañarandy se ha consolidado como un espacio de encuentro para la comunidad, preservando las tradiciones mientras se adapta a los tiempos modernos.",
+        "capillat3":"<span class='text-primary' >Koki</span>  Ruiz",
+        "capillai6":"El trabajo de Koki Ruiz ha sido fundamental para el desarrollo y la promoción de Tañarandy, logrando que esta pequeña región de Paraguay sea reconocida tanto a nivel nacional como internacional. Las tradiciones de Tañarandy son una fusión única de la espiritualidad cristiana con las costumbres indígenas guaraníes, creando una experiencia cultural y religiosa inigualable."
+    },
+    "contenidoE":{
+        "estatuaTitulo":"Estatua de San Roque <br>González  de Santa Cruz",
+        "quien":"Quién es",
+        "estatuat1":"Roque González <span class='text-primary'> <br>de Santa Cruz</span>",
+        "estatuai1":"Nació el 17 de noviembre de 1576 en Asunción, Paraguay. Era descendiente de una familia criolla de renombre. Fue ordenado sacerdote en 1599, su misión se centró en la evangelización de los pueblos indígenas guaraníes, fundando varias reducciones jesuíticas, entre ellas San Ignacio Miní. Murió mártir el 15 de noviembre de 1628 en Caaró (actual Brasil) y fue canonizado por el Papa Juan Pablo II en 1988.",
+        "estatuai2":"San Roque González de Santa Cruz es uno de los santos más venerados en Paraguay y en otras regiones de América del Sur. Su legado como misionero jesuita y su impacto en la evangelización de los pueblos indígenas guaraníes es notable. En la ciudad de San Ignacio, Misiones, se erige una imponente estatua en su honor, convirtiéndose en un símbolo de fe y cultura para los habitantes y visitantes.",
+        "estatuaT":"Estatua",
+        "significado":"Significado",
+        "estatuai3":"La estatua está situada en la plaza principal de San Ignacio, Misiones, un lugar de encuentro y de importancia histórica para la comunidad. Representa a San Roque con una expresión serena, portando un crucifijo y una Biblia, símbolos de su fe y labor evangelizadora. La posición y los elementos que acompaña la estatua reflejan el carácter misionero de San Roque y su dedicación a la propagación del cristianismo entre los pueblos indígenas.",
+        "estatuai4":"La estatua es un punto de peregrinación para muchos fieles que veneran a San Roque. Cada año, en su festividad, la plaza se llena de devotos que participan en misas y actos religiosos en su honor. Para los habitantes de San Ignacio, la estatua representa no solo la fe, sino también la identidad cultural y la historia compartida de la comunidad. Es un recordatorio constante de los valores cristianos y del legado jesuita en la región.",
+        "estatuat2":"Impacto <span class='text-primary'>Turístico</span>",
+        "estatuai5":"San Ignacio es un destino turístico importante en Misiones, no solo por la estatua, sino también por su historia rica en cultura jesuítica. La estatua de San Roque se convierte en un punto de interés para aquellos que visitan la ciudad, complementando el recorrido por las ruinas de las reducciones jesuíticas. San Ignacio es un destino turístico importante en Misiones, no solo por la estatua, sino también por su historia rica en cultura jesuítica. La estatua de San Roque se convierte en un punto de interés para aquellos que visitan la ciudad, complementando el recorrido por las ruinas de las reducciones jesuíticas.",
+        "estatuat3":"<span class='text-primary'>Cultura e</span> historia",
+        "estatuai6":"La estatua de San Roque González de Santa Cruz en San Ignacio, Misiones, no es solo una obra de arte, sino un símbolo viviente de la fe, cultura e historia de la región. A través de ella, la figura de San Roque continúa inspirando a generaciones, recordando su sacrificio y su dedicación a la evangelización de los pueblos guaraníes."
+    },
+    "contenidoP":{
+        "plazat1":"Plaza de la <span class='text-primary'><br>Mujer Paraguaya </span>",
+        "plazai1":"San Ignacio, una de las ciudades más antiguas de Paraguay, guarda en su corazón un espacio cargado de historia y significado: la Plaza de la Mujer Paraguaya. Este lugar no solo es un reconocimiento a las mujeres del país, sino también un reflejo del desarrollo comunitario en la región de Misiones.",
+        "plazai2":"San Ignacio Guazú, fundada por los jesuitas en 1609, ha sido testigo de innumerables episodios de la historia paraguaya. La Plaza de la Mujer Paraguaya se erige aquí como un tributo a las mujeres que han jugado un rol crucial en la construcción de la nación. Desde los tiempos de la Guerra de la Triple Alianza (1864-1870) hasta la Guerra del Chaco (1932-1935), la valentía y resiliencia de las mujeres paraguayas han sido fundamentales para el país.",
+        "caracte":"Características",
+        "plazai3":"La creación de la Plaza de la Mujer Paraguaya surge de la necesidad de reconocer las contribuciones femeninas en la sociedad paraguaya. Este espacio fue concebido no solo para el esparcimiento, sino también como un lugar conmemorativo, donde se celebran actos y actividades que promueven la igualdad de género y el empoderamiento de la mujer.",
+        "plazai4":"La plaza alberga varios elementos simbólicos y arquitectónicos que destacan la relevancia de la mujer en la cultura y la historia de Paraguay. Entre ellos, se encuentran monumentos, esculturas y placas conmemorativas dedicadas a figuras femeninas destacadas, tanto históricas como contemporáneas. Estas obras, realizadas por artistas locales y nacionales, capturan la esencia del espíritu y la fortaleza de las mujeres paraguayas.",
+        "plazat2":"Actividades <span class='text-primary'>y Usos</span>",
+        "plazai5":"A lo largo del año, la Plaza de la Mujer Paraguaya se convierte en el escenario de diversas actividades culturales, sociales y educativas. Ferias, exposiciones de arte, talleres y eventos conmemorativos, especialmente en fechas importantes como el Día Internacional de la Mujer, encuentran su lugar aquí. Estos eventos no solo honran a las mujeres, sino que también sirven como una plataforma para la educación y concienciación sobre temas de género y derechos de la mujer.",
+        "plazat3":"<span class='text-primary'>Impacto en</span> la Comunidad",
+        "plazai6":"La plaza ha tenido un impacto profundo en la comunidad de San Ignacio. Ha logrado convertirse en un punto de encuentro y cohesión social, fomentando el respeto y reconocimiento hacia las mujeres. Además, ha impulsado el turismo local y ha demostrado cómo los espacios públicos pueden promover valores culturales y sociales. La plaza es un emblema de reconocimiento y empoderamiento. A través de sus monumentos, actividades y su valor simbólico, la plaza ofrece un lugar de reflexión y homenaje a las mujeres que han forjado y continúan forjando la historia de Paraguay."
+    },
+    "contenidoH":{
+        "hogart":"Hogar de Ancianos <br> San Vicente de Paul",
+        "hogart1":"Hogar de Ancianos <br> <span class='text-primary'>San Vicente de Paul</span>",
+        "hogari1":"Ubicado en la histórica ciudad de San Ignacio, en el departamento de Misiones, Paraguay, el Hogar de Ancianos San Vicente de Paul se ha convertido en un pilar de apoyo para las personas mayores de la comunidad. Este hogar, fundado con un fuerte sentido de servicio y solidaridad, brinda cuidado y asistencia a ancianos en situación de vulnerabilidad, ofreciendo un entorno seguro y digno.",
+        "hogari2":"La historia del Hogar de Ancianos está profundamente entrelazada con los esfuerzos comunitarios y religiosos de la región. Fundado por la Iglesia Católica en colaboración con la comunidad local y diversas organizaciones benéficas, este hogar surgió como una respuesta a la necesidad de proporcionar un espacio donde los ancianos pudieran recibir atención diaria y apoyo emocional.",
+        "compromiso":"Compromiso",
+        "hogari3":"Desde su creación, el Hogar de Ancianos San Vicente de Paul ha trabajado incansablemente para mejorar sus instalaciones y servicios. A medida que las necesidades de los residentes han evolucionado, el hogar ha adaptado sus recursos para garantizar una atención integral. Profesionales de la salud y voluntarios dedican su tiempo y conocimientos para asegurar que los ancianos reciban cuidados médicos adecuados, una alimentación balanceada y actividades recreativas que promuevan su bienestar físico y mental.",
+        "hogari4":"El Hogar de Ancianos no solo es un refugio para los ancianos, sino también un símbolo del compromiso de la comunidad de San Ignacio con sus miembros más vulnerables. A lo largo de los años, el hogar ha contado con el apoyo de donantes y organizaciones tanto locales como internacionales, lo que ha sido crucial para su crecimiento y sostenibilidad.",
+        "hogart2":"Impacto <span class='text-primary'>y Significado</span>",
+        "hogari5":"Más allá de su función como institución de cuidado, el Hogar de Ancianos representa un modelo de solidaridad y responsabilidad social. La dedicación de la comunidad y el continuo apoyo recibido han permitido que este hogar siga siendo un lugar donde los ancianos pueden vivir con dignidad y en un ambiente de respeto y cariño.",
+        "hogart3":"<span class='text-primary'>Refugio</span> Ciudadano",
+        "hogari6":"El Hogar de Ancianos San Vicente de Paul es un verdadero refugio de cuidado en Misiones, Paraguay. Su historia, basada en la colaboración y el servicio, refleja el compromiso de la comunidad de San Ignacio con sus mayores, asegurando que reciban el respeto, la atención y el amor que merecen en esta etapa de sus vidas."
+    },
+    "home":{
+        "title":"¡Bienvenido a <br>QrTime Travel!",
+        "subtitle":"Explora sitios históricos y culturales de <br> San Ignacio en múltiples idiomas con un escaneo...",
+        "button":"Explorar Sitios"
+    },
+    "about":{
+        "sub":"Quiénes somos?",
+        "somos":"Somos alumnos del Tercero BTI SIL 2024, comprometidos con el desarrollo tecnológico y la promoción cultural de nuestra querida ciudad, San Ignacio Guazú. Nuestro objetivo es facilitar a los turistas extranjeros y a cualquier persona interesada el acceso a información sobre los lugares históricos y emblemáticos de nuestra ciudad, de una manera moderna y accesible. Con tan solo escanear un código QR, puedes descubrir la historia, la cultura y la belleza de San Ignacio Guazú, todo en tu idioma.<br>Este sitio web multilenguaje es parte de nuestro proyecto de clase, y estamos orgullosos de poder contribuir al turismo y la educación en nuestra comunidad. ¡Gracias por visitarnos y esperamos que disfrutes explorando San Ignacio tanto como nosotros disfrutamos desarrollando este proyecto para ti!",
+        "alumnos":"ALUMNOS DEL TERCERO BTI SIL 2024"
+    }
+}

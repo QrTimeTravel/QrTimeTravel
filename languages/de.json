@@ -1,0 +1,122 @@
+{
+    "nav": {
+        "inicio": "Start",
+        "sitios": "Orte",
+        "paginas": "Seiten",
+        "iglesia": "Kirche San Ignacio Guazú",
+        "capilla": "Tañarandy-Kapelle",
+        "barraca": "Tañarandy-Kaserne",
+        "estatua": "Statue des Heiligen Rochus",
+        "plaza": "Paraguayischer Frauenplatz",
+        "hogar": "Pflegeheim",
+        "nosotros": "Über Uns",
+        "copy": "&copy; Copyright Studierende im Dritten Studienjahr BTI SIL 2024. Alle Rechte vorbehalten.",
+        "galeria": "GALERIE",
+        "leer": "Mehr lesen",
+        "imagenes": "Bilder"
+    },
+    "contenido": {
+        "historiai": "GESCHICHTE",
+        "iglesiat1": "Kirche <span class='text-primary'>San Ignacio Guazú</span>",
+        "iglesiai1": "Im 17. Jahrhundert kamen die Jesuiten mit der Mission, die indigene Bevölkerung zu evangelisieren, in die Provinz Paraguay. Während ihres Aufenthalts gründeten sie 30 Städte und lehrten Musik, Kunst und Architektur. In San Ignacio Guazú bauten sie eine monumentale Kirche, die trotz ihres Abrisses im 20. Jahrhundert ein tiefes Erbe in der Geschichte und Kultur des Ortes hinterließ.",
+        "iglesiat2": "<span class='text-primary'>Erste Kirche und </span>sein Niedergang",
+        "iglesiai2": "Die erste Kirche San Ignacio Guazú wurde 1694 fertiggestellt. Diese Kirche, die bis 1911 in einem verfallenen Zustand überlebte, stürzte schließlich 1921 ein. Sie zeichnete sich durch ihr hölzernes Interieur und eine mit bis zu sechzehnhundert Gemälden geschmückte Decke aus. Nach seiner Zerstörung blieben nur noch einige Überreste übrig, die heute im Diözesanmuseum San Ignacio Guazú ausgestellt sind.",
+        "nuevo": "Neu",
+        "templo": "Tempel",
+        "iglesiai3": "Der Bau der heutigen Kirche San Ignacio Guazú begann 1919 und wurde 1932 abgeschlossen. Obwohl sie nicht die gleiche Pracht wie der alte Jesuitentempel hatte, war sie das Ergebnis einer gemeinsamen Anstrengung der Gemeinde und der Männer, die in der Kirche arbeiteten Feld zu den Kindern, die Wasser trugen. Laut Saturnino Ferreira Pérez wurde der Bau von Teodoro und Eugenio Pérez López, Venancio und Jacinto Ferloni und anderen sowie hundert anonymen Bewohnern geleitet.",
+        "iglesiai4": "Der Bau des neuen Tempels war ein Gemeinschaftsprojekt. Sowohl reiche als auch einfache Gemeindemitglieder steuerten Material und Arbeit bei. Viehzüchter finanzierten den Materialeinkauf, während örtliche Tischler und Sägewerke das nötige Holz lieferten. Die Begeisterung der Bevölkerung war so groß, dass Anfang 1932 mit dem Bau des Daches begonnen wurde.",
+        "iglesiat3": "Fertigstellung <span class='text-primary'>des Tempels</span>",
+        "iglesiai5": "Mitten im Chaco-Krieg kehrten die Jesuiten unter der Führung von Pater Joaquín Vericat und anderen nach San Ignacio zurück. Seine Anwesenheit gab der Fertigstellung des Tempels neuen Schwung. In Zusammenarbeit mit der Gemeinde wurden Fliesen verlegt und die Holzarbeiten und die Dacheindeckung fertiggestellt.",
+        "iglesiat4": "<span class='text-primary'>Vermächtnis </span> und Bewahrung",
+        "iglesiai6": "Obwohl der alte Jesuitentempel nicht mehr existiert, bleibt sein Erbe im neuen Tempel und im Jesuitenmuseum bestehen, das prächtige Stücke sakraler Kunst und historische Dokumente aus dieser Zeit bewahrt. San Ignacio Guazú bleibt ein lebendiges Zeugnis der reichen Jesuitengeschichte in Paraguay."
+    },
+    "sitiosp": {
+        "sitioiglesia": "Es ist eines der ältesten und symbolträchtigsten des Landes. Seine Geschichte ist eng verbunden mit...",
+        "sitiobarraca": "Die Barraca de Tañarandy ist ein kulturelles und religiöses Fest, das in Tañarandy gefeiert wird ...",
+        "sitiocapilla": "Es ist ein Ort von großer kultureller und religiöser Bedeutung. Tañarandy, dessen Name auf Guaraní bedeutet...",
+        "sitioestatuat": "Statue Von <br>San Roque González",
+        "sitioestatuai": "Die Statue befindet sich auf dem Hauptplatz von San Ignacio, Misiones, einem Ort der...",
+        "sitioplazat": "Paraguayischer <br>Frauenplatz",
+        "sitioplazai": "Es ist ein Raum mit einer reichen Geschichte, der sowohl die Anerkennung von Frauen widerspiegelt...",
+        "sitiohogart": "Pflegeheim <br>St. Vicent De Paul",
+        "sitiohogari": "Dieses Pflegeheim wurde mit der Absicht gegründet, Pflege und Hilfe für..."
+    },
+    "contenidoB": {
+        "que": "Was ist das?",
+        "barracat1": "Die Barraca von <span class='text-primary'>Tañarandy</span>",
+        "barracai1": "Die Barraca von Tañarandy ist ein kulturelles und religiöses Fest, das in Tañarandy, einem kleinen Ort in der Nähe von San Ignacio im Departement Misiones, Paraguay, gefeiert wird. Diese Tradition hat sowohl auf nationaler als auch auf internationaler Ebene Bekanntheit erlangt, da sie Kunst, Religiosität und Volkskultur miteinander verbindet.",
+        "barracat2": "<span class='text-primary'>Ursprung</span> und Motivation",
+        "barracai2": "Das Fest von Tañarandy wurde 1992 vom bildenden Künstler <a href='https://es.wikipedia.org/wiki/Koki_Ruiz'>Koki Ruiz</a> ins Leben gerufen. Ruiz' Ziel war es, die volkstümlichen und religiösen Traditionen der Karwoche in der Region zu revitalisieren und künstlerische Elemente zu integrieren, die das reiche kulturelle Erbe Paraguays widerspiegeln. Das Fest findet im Rahmen der Osterfeierlichkeiten statt, insbesondere am Karfreitag.",
+        "desarrollo": "Entwicklung",
+        "consolidacion": "Konsolidierung",
+        "barracai3": "Im ersten Jahr wurden kleine künstlerische Installationen mit der Beteiligung der lokalen Gemeinschaft durchgeführt. Diese ersten Werke bestanden aus Gemälden und Skulpturen, die Szenen aus der Passion Christi darstellten. Mit der Zeit nahmen die Komplexität und Größe der Werke zu, und es wurden vergängliche Kunstwerke eingebunden, wie der Einsatz von Kerzen, Fackeln und anderen natürlichen Elementen.",
+        "barracai4": "Im Laufe der Jahre ist das Fest von Tañarandy sowohl in Größe als auch in Anerkennung gewachsen. Koki Ruiz und sein Team begannen, mit lokalen Materialien wie Ton, Holz und Wachs zu arbeiten, um beeindruckende Gemälde und Skulpturen zu schaffen, die biblische Szenen darstellen. Eines der emblematischsten Elemente der Feier ist die nächtliche Prozession, bekannt als 'Der Weg des Kreuzes'. Während dieser Prozession erleuchten Tausende von Kerzen den Weg und schaffen eine magische und spirituelle Atmosphäre.",
+        "barracat3": "Kultureller <span class='text-primary'>und sozialer</span> Einfluss",
+        "barracai5": "Die Barraca von Tañarandy hat sowohl auf die lokale Gemeinschaft als auch auf den Tourismus in der Region einen bedeutenden Einfluss ausgeübt. Sie hat die lokalen Traditionen wiederbelebt und einen Raum für künstlerischen Ausdruck in der Gemeinschaft geschaffen. Darüber hinaus zieht sie jedes Jahr Tausende von Besuchern an, die nach Tañarandy kommen, um die beeindruckenden Kunstwerke zu sehen und an den religiösen Feierlichkeiten teilzunehmen.",
+        "barracat4": "<span class='text-primary'>Anerkennung</span> und Zukunft",
+        "barracai6": "Das Fest von Tañarandy wurde sowohl national als auch international für seinen kulturellen und künstlerischen Wert anerkannt. Es hat sich zu einem Bezugspunkt für die Osterfeiern in Paraguay entwickelt und entwickelt sich jedes Jahr weiter mit neuen künstlerischen Ergänzungen und Vorschlägen."
+    },
+    "contenidoC": {
+        "capillat1": "Kapelle von <span class='text-primary'>Tañarandy</span>",
+        "capillai1": "Tañarandy, was in Guaraní 'Land der Ketzer' bedeutet, ist ein emblematischer Ort in San Ignacio, Misiones, Paraguay, bekannt für seine tiefen Wurzeln in den paraguayischen Traditionen und Bräuchen. Obwohl es im herkömmlichen Sinne keine traditionelle Kapelle ist, ist Tañarandy ein Ort von großer kultureller und religiöser Bedeutung, besonders während der Karwoche.",
+        "capillai2": "Die Kapelle von Tañarandy ist eine relativ moderne Struktur, die im Rahmen von Bemühungen zur Wiederbelebung und Bewahrung der kulturellen und religiösen Traditionen der Region konzipiert wurde. Dieses Projekt wurde von Koki Ruiz, einem herausragenden paraguayischen Künstler, vorangetrieben, der seit Ende des 20. Jahrhunderts intensiv an der Wiederherstellung und Förderung der Kultur von Tañarandy arbeitet.",
+        "razon": "Grund",
+        "legado": "Vermächtnis",
+        "capillai3": "Die Errichtung der Kapelle von Tañarandy dient dem Zweck, die religiösen und kulturellen Traditionen der örtlichen Gemeinschaft zu bewahren und zu fördern. Dieser Ort ist zu einem zentralen Punkt für die Osterfeierlichkeiten geworden und zieht jährlich Tausende von Pilgern und Touristen an. Die Absicht hinter ihrer Errichtung war es, einen Raum zu schaffen, in dem alte Traditionen bewahrt und präsentiert werden können, um die reiche kulturelle Identität Paraguays zu betonen.",
+        "capillai4": "Das kulturelle Erbe von Tañarandy ist tief und bedeutend. Eines der herausragendsten Ereignisse ist die 'Prozession der Büßer' oder 'Camino al Yvaga', die jährlich während der Karwoche stattfindet. Diese Veranstaltung ist bekannt für ihre beeindruckende Darstellung vergänglicher Kunst, bei der Tausende von Kerzen die Wege erleuchten und religiöse Kunstwerke aus natürlichen Materialien wie Samen und Blumen ausgestellt werden. Diese künstlerischen Ausdrucksformen, geleitet von Koki Ruiz, haben Tañarandy zu einem Bezugspunkt für sakrale Kunst in Paraguay gemacht.",
+        "capillat2": "Heutige <span class='text-primary'>Nutzung</span>",
+        "capillai5": "Heutzutage werden die Kapelle und das Gebiet von Tañarandy hauptsächlich für religiöse und kulturelle Veranstaltungen genutzt. Obwohl die Karwoche die bedeutendste Zeit ist, in der Prozessionen und andere spirituelle Aktivitäten stattfinden, beherbergt der Ort auch Messen, Gemeinschaftsveranstaltungen und andere kulturelle Feierlichkeiten das ganze Jahr über. Tañarandy hat sich als Treffpunkt für die Gemeinschaft etabliert, wobei Traditionen bewahrt und gleichzeitig an die moderne Zeit angepasst werden.",
+        "capillat3": "<span class='text-primary'>Koki</span> Ruiz",
+        "capillai6": "Die Arbeit von Koki Ruiz war entscheidend für die Entwicklung und Förderung von Tañarandy, wodurch diese kleine Region Paraguays sowohl national als auch international bekannt wurde. Die Traditionen von Tañarandy sind eine einzigartige Verschmelzung von christlicher Spiritualität und indigenen Guaraní-Bräuchen, die eine unvergleichliche kulturelle und religiöse Erfahrung schaffen."
+    },
+    "contenidoE": {
+        "estatuaTitulo": "Statue von San Roque <br>González de Santa Cruz",
+        "quien": "Wer ist er",
+        "estatuat1": "Roque González <span class='text-primary'> <br>de Santa Cruz</span>",
+        "estatuai1": "Er wurde am 17. November 1576 in Asunción, Paraguay, geboren. Er stammte aus einer angesehenen Kreolenfamilie. 1599 wurde er zum Priester geweiht, und seine Mission konzentrierte sich auf die Evangelisierung der Guaraní-Indigenen, wobei er mehrere Jesuitenreduktionen gründete, darunter San Ignacio Miní. Er starb am 15. November 1628 als Märtyrer in Caaró (im heutigen Brasilien) und wurde 1988 von Papst Johannes Paul II. heiliggesprochen.",
+        "estatuai2": "San Roque González de Santa Cruz ist einer der am meisten verehrten Heiligen in Paraguay und anderen Regionen Südamerikas. Sein Vermächtnis als Jesuitenmissionar und sein Einfluss auf die Evangelisierung der Guaraní-Indigenen sind bemerkenswert. In der Stadt San Ignacio, Misiones, steht eine imposante Statue zu seinen Ehren, die zu einem Symbol des Glaubens und der Kultur für Einwohner und Besucher geworden ist.",
+        "estatuaT": "Statue",
+        "significado": "Bedeutung",
+        "estatuai3": "Die Statue befindet sich auf dem Hauptplatz von San Ignacio, Misiones, einem Treffpunkt von historischer Bedeutung für die Gemeinschaft. Sie stellt San Roque mit einem gelassenen Ausdruck dar, der ein Kruzifix und eine Bibel hält, Symbole seines Glaubens und seiner evangelisierenden Arbeit. Die Position der Statue und die begleitenden Elemente spiegeln den missionarischen Charakter von San Roque und seine Hingabe an die Verbreitung des Christentums unter den indigenen Völkern wider.",
+        "estatuai4": "Die Statue ist ein Wallfahrtsort für viele Gläubige, die San Roque verehren. Jedes Jahr, an seinem Festtag, füllt sich der Platz mit Gläubigen, die an Messen und religiösen Zeremonien zu seinen Ehren teilnehmen. Für die Einwohner von San Ignacio repräsentiert die Statue nicht nur den Glauben, sondern auch die kulturelle Identität und die gemeinsame Geschichte der Gemeinschaft. Sie dient als ständige Erinnerung an christliche Werte und das jesuitische Erbe in der Region.",
+        "estatuat2": "<span class='text-primary'>Touristische</span> Bedeutung",
+        "estatuai5": "San Ignacio ist ein wichtiges Touristenziel in Misiones, nicht nur wegen der Statue, sondern auch aufgrund seiner reichen jesuitischen Kulturgeschichte. Die Statue von San Roque wird zu einem Interessenspunkt für diejenigen, die die Stadt besuchen, und ergänzt die Besichtigung der Jesuitenreduktionsruinen.",
+        "estatuat3": "<span class='text-primary'>Kultur und</span> Geschichte",
+        "estatuai6": "Die Statue von San Roque González de Santa Cruz in San Ignacio, Misiones, ist nicht nur ein Kunstwerk, sondern ein lebendiges Symbol des Glaubens, der Kultur und der Geschichte der Region. Durch sie inspiriert die Figur von San Roque weiterhin Generationen und erinnert an sein Opfer und seine Hingabe an die Evangelisierung der Guaraní-Völker."
+    },
+    "contenidoP": {
+        "plazat1": "Platz der <span class='text-primary'><br>Paraguayischen Frau </span>",
+        "plazai1": "San Ignacio, eine der ältesten Städte Paraguays, beherbergt im Herzen einen Ort voller Geschichte und Bedeutung: den Platz der Paraguayischen Frau. Dieser Ort ist nicht nur eine Anerkennung für die Frauen des Landes, sondern auch ein Spiegel der Gemeinschaftsentwicklung in der Region Misiones.",
+        "plazai2": "San Ignacio Guazú, 1609 von den Jesuiten gegründet, war Zeuge unzähliger Episoden der paraguayischen Geschichte. Der Platz der Paraguayischen Frau erhebt sich hier als ein Tribut an die Frauen, die eine entscheidende Rolle beim Aufbau der Nation gespielt haben. Von den Zeiten des Tripel-Allianz-Krieges (1864-1870) bis zum Chaco-Krieg (1932-1935) waren der Mut und die Widerstandskraft der paraguayischen Frauen von entscheidender Bedeutung für das Land.",
+        "caracte": "Eigenschaften",
+        "plazai3": "Die Schaffung des Platzes der Paraguayischen Frau entspringt dem Bedürfnis, die Beiträge von Frauen zur paraguayischen Gesellschaft anzuerkennen. Dieser Raum wurde nicht nur für die Freizeitgestaltung konzipiert, sondern auch als Gedenkstätte, an der Veranstaltungen und Aktivitäten zur Förderung der Geschlechtergleichstellung und zur Stärkung der Frauen stattfinden.",
+        "plazai4": "Der Platz beherbergt mehrere symbolische und architektonische Elemente, die die Bedeutung der Frau in der Kultur und Geschichte Paraguays hervorheben. Dazu gehören Denkmäler, Skulpturen und Gedenktafeln, die bedeutenden weiblichen Persönlichkeiten gewidmet sind, sowohl historisch als auch zeitgenössisch. Diese Werke, geschaffen von lokalen und nationalen Künstlern, fangen das Wesen des Geistes und der Stärke der paraguayischen Frauen ein.",
+        "plazat2": "Aktivitäten <span class='text-primary'>und Nutzung</span>",
+        "plazai5": "Im Laufe des Jahres wird der Platz der Paraguayischen Frau zur Bühne für verschiedene kulturelle, soziale und pädagogische Aktivitäten. Märkte, Kunstausstellungen, Workshops und Gedenkveranstaltungen, insbesondere an wichtigen Tagen wie dem Internationalen Frauentag, finden hier ihren Platz. Diese Veranstaltungen ehren nicht nur die Frauen, sondern dienen auch als Plattform für Bildung und Bewusstseinsschaffung zu Themen wie Geschlechterfragen und Frauenrechten.",
+        "plazat3": "<span class='text-primary'>Auswirkungen auf</span> die Gemeinschaft",
+        "plazai6": "Der Platz hat einen tiefgreifenden Einfluss auf die Gemeinschaft von San Ignacio. Er hat sich zu einem Ort des sozialen Zusammenhalts und der Begegnung entwickelt, der Respekt und Anerkennung gegenüber Frauen fördert. Darüber hinaus hat er den lokalen Tourismus angekurbelt und gezeigt, wie öffentliche Räume kulturelle und soziale Werte fördern können. Der Platz ist ein Symbol der Anerkennung und Stärkung. Durch seine Denkmäler, Aktivitäten und seinen symbolischen Wert bietet der Platz einen Ort der Reflexion und Hommage an die Frauen, die die Geschichte Paraguays geprägt haben und weiterhin prägen."
+    },
+    "contenidoH": {
+        "hogart": "Altenheim <br> San Vicente de Paul",
+        "hogart1": "Altenheim <br> <span class='text-primary'>San Vicente de Paul</span>",
+        "hogari1": "Im historischen San Ignacio, im Departement Misiones, Paraguay, liegt das Altenheim San Vicente de Paul, das sich zu einer tragenden Säule der Unterstützung für die älteren Menschen in der Gemeinschaft entwickelt hat. Dieses Heim, das mit einem starken Sinn für Dienst und Solidarität gegründet wurde, bietet Pflege und Unterstützung für ältere Menschen in Not und schafft dabei eine sichere und würdevolle Umgebung.",
+        "hogari2": "Die Geschichte des Altenheims ist eng mit den gemeinschaftlichen und religiösen Bemühungen der Region verbunden. Gegründet von der katholischen Kirche in Zusammenarbeit mit der lokalen Gemeinschaft und verschiedenen Wohltätigkeitsorganisationen, entstand dieses Heim als Antwort auf das Bedürfnis, einen Ort zu schaffen, an dem ältere Menschen tägliche Betreuung und emotionale Unterstützung erhalten können.",
+        "compromiso": "Engagement",
+        "hogari3": "Seit seiner Gründung hat das Altenheim San Vicente de Paul unermüdlich daran gearbeitet, seine Einrichtungen und Dienstleistungen zu verbessern. Mit der Entwicklung der Bedürfnisse der Bewohner hat das Heim seine Ressourcen angepasst, um eine umfassende Betreuung zu gewährleisten. Gesundheitsfachkräfte und Freiwillige widmen ihre Zeit und ihr Wissen, um sicherzustellen, dass die älteren Menschen eine angemessene medizinische Versorgung, eine ausgewogene Ernährung und Freizeitaktivitäten erhalten, die ihr körperliches und geistiges Wohlbefinden fördern.",
+        "hogari4": "Das Altenheim ist nicht nur ein Zufluchtsort für ältere Menschen, sondern auch ein Symbol für das Engagement der Gemeinschaft von San Ignacio für ihre schutzbedürftigsten Mitglieder. Im Laufe der Jahre hat das Heim auf die Unterstützung von Spendern und Organisationen sowohl auf lokaler als auch auf internationaler Ebene gebaut, was für sein Wachstum und seine Nachhaltigkeit entscheidend war.",
+        "hogart2": "Auswirkung <span class='text-primary'>und Bedeutung</span>",
+        "hogari5": "Über seine Funktion als Pflegeeinrichtung hinaus steht das Altenheim für ein Modell der Solidarität und sozialen Verantwortung. Das Engagement der Gemeinschaft und die kontinuierliche Unterstützung haben es diesem Heim ermöglicht, ein Ort zu bleiben, an dem ältere Menschen in Würde und in einer Umgebung von Respekt und Zuneigung leben können.",
+        "hogart3": "<span class='text-primary'>Bürgerliches</span> Refugium",
+        "hogari6": "Das Altenheim San Vicente de Paul ist ein wahrer Zufluchtsort der Fürsorge in Misiones, Paraguay. Seine Geschichte, die auf Zusammenarbeit und Dienst basiert, spiegelt das Engagement der Gemeinschaft von San Ignacio für ihre älteren Menschen wider und stellt sicher, dass sie den Respekt, die Pflege und die Liebe erhalten, die sie in dieser Lebensphase verdienen."
+    },
+    "home": {
+        "title": "Willkommen bei <br>QrTime Travel!",
+        "subtitle": "Erkunde historische und kulturelle Stätten von <br> San Ignacio in mehreren Sprachen mit einem Scan...",
+        "button": "Orte Erkunden"
+    },
+    "about": {
+        "sub": "Wer sind wir?",
+        "somos": "Wir sind Schüler der dritten Klasse BTI SIL 2024, engagiert für die technologische Entwicklung und die kulturelle Förderung unserer geliebten Stadt San Ignacio Guazú. Unser Ziel ist es, es ausländischen Touristen und allen Interessierten zu erleichtern, Informationen über die historischen und bedeutenden Orte unserer Stadt auf moderne und zugängliche Weise zu erhalten. Durch einfaches Scannen eines QR-Codes können Sie die Geschichte, Kultur und Schönheit von San Ignacio Guazú entdecken, und das alles in Ihrer Sprache.<br>Diese mehrsprachige Website ist Teil unseres Klassenprojekts, und wir sind stolz darauf, zum Tourismus und zur Bildung in unserer Gemeinschaft beizutragen. Vielen Dank für Ihren Besuch, und wir hoffen, dass Sie das Erkunden von San Ignacio genauso genießen werden, wie wir es genossen haben, dieses Projekt für Sie zu entwickeln!",
+        "alumnos": "SCHÜLER DER DRITTEN KLASSE BTI SIL 2024"
+    }
+}
